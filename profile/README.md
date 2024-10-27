@@ -21,7 +21,7 @@ Attributes:
 Methods:
 * addNode()
 * mapKeyToServer(key: int)
-* gossip()
+* gossip()  // Thread
 * sendHintedHandoffs()  // Thread
 * _send()
 
