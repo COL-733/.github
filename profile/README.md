@@ -33,6 +33,7 @@ Attribtes:
 ## ServerInfo
 Attributes:
 * ip: string
+* switch_ip: string or switch_socket: socket.socket
 * port: int
 * name: string
 
